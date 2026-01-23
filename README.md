@@ -9,4 +9,4 @@ Each folder builds on the previous one. No fluff—only core concepts and practi
 3. Basic C
 4. For loop
 5. Star patterns
-6. ?
+6. While Loops
