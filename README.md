@@ -10,4 +10,4 @@ Each folder builds on the previous one. No fluff—only core concepts and practi
 4. For loop
 5. Star patterns
 6. While Loops
-7. ??
+7. Pointers & Functions
