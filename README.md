@@ -11,3 +11,4 @@ Each folder builds on the previous one. No fluff—only core concepts and practi
 5. Star patterns
 6. While Loops
 7. Pointers & Functions
+8. Array
